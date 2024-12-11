@@ -1,0 +1,10 @@
+3rdparty/
+__MACOSX/
+__pycache__/
+results/
+wandb/
+csv_files/
+*.png
+*.zip
+*.pdf
+.DS_Store
